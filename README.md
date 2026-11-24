@@ -1,5 +1,11 @@
 # WP Ornaments — 3D jewellery store
 
+[![Project site](https://img.shields.io/badge/site-live-brightgreen)](https://wp-project-orpin.vercel.app/)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-555555?logo=&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![Last commit](https://img.shields.io/github/last-commit/KArT4206/wp-ornaments)
+
 Next.js 15 + React Three Fiber + Supabase + Razorpay.
 
 Customers can browse, view pieces in 3D, filter, wishlist and fill a bag without an account. They only sign in (email code or Google) to check out, send a custom design request, or see their orders.
